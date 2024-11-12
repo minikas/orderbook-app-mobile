@@ -35,18 +35,6 @@ If you choose to add a wallet address for monitoring, **the wallet address is st
 - We do not share any wallet addresses or user-related data with third parties.
 - We do not allow any data to be used for marketing or advertising purposes.
 
-## Use of Sentry for Error Tracking
-
-We use **Sentry** to help monitor and fix errors that may occur in the app. Sentry is a third-party service that provides us with error reporting and performance monitoring.
-
-### What Data Does Sentry Collect?
-
-- **Error Logs**: Sentry collects information about errors, including stack traces, device information, and session details, to help us identify and fix issues in the app.
-- **Device Information**: Sentry may collect data about the device, such as the type of device, OS version, and app version.
-- **Crash Reports**: In the event of a crash, Sentry may collect crash logs to help us improve the app’s stability and performance.
-
-Please note that **Sentry does not collect any personal data** (such as your name, email, or wallet information). The data collected by Sentry is used solely for debugging and performance improvements of the app.
-
 ## No Trading Functionality
 
 Our app is strictly a monitoring tool. **We do not allow any trading actions**, such as creating, modifying, or canceling orders. All functionality within the app is read-only and is intended to provide users with insights into Polkadex’s data and their wallets.
